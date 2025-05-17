@@ -74,7 +74,8 @@ void evalprefix(char p[50])
 
 ## Output:
 
-![alt text](image-4.png)
+![Screenshot 2025-05-17 230001](https://github.com/user-attachments/assets/08936464-3252-454b-a2b4-1657e08110a9)
+
 
 
 
