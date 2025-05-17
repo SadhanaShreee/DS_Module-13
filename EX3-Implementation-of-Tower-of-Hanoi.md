@@ -39,8 +39,8 @@ int main()
 ```
 
 ## Output:
-![alt text](image.png)
-![alt text](image-1.png)
+![Screenshot 2025-05-17 224717](https://github.com/user-attachments/assets/d738f8ed-73f7-40c1-a974-a20944490a1e)
+
 
 
 ## Result:
