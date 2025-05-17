@@ -65,8 +65,8 @@ int main()
 ```
 
 ## Output:
+![Screenshot 2025-05-17 225314](https://github.com/user-attachments/assets/00670a3e-aad2-444a-8256-b1e3ffe2d964)
 
-![alt text](image-2.png)
 
 ## Result:
 Thus the C program to find and display the priority of the operator in the given Postfix expression is implemented successfully
