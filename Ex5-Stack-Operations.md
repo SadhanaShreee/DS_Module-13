@@ -39,7 +39,8 @@ char pop()
 
 ## Output:
 
-![alt text](image-5.png)
+![Screenshot 2025-05-17 230248](https://github.com/user-attachments/assets/32f5a200-9e4e-4f49-9ff9-2fe2644938af)
+
 
 
 ## Result:
