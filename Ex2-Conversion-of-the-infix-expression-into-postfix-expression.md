@@ -89,8 +89,8 @@ int main()
 ```
 
 ## Output:
+![Screenshot 2025-05-17 225841](https://github.com/user-attachments/assets/1f74d46c-53aa-4b89-9229-c11ced8b688d)
 
-![alt text](image-3.png)
 
 
 ## Result:
